@@ -34,3 +34,8 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+summarySCC_PM25.rds
+downloaded_dataset.zip
+Source_Classification_Code.rds
+
